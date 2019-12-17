@@ -1,4 +1,4 @@
-FROM swr.cn-north-1.myhuaweicloud.com/aeocdc/fbajupyter10:v1
+FROM swr.cn-north-1.myhuaweicloud.com/aeocdc/fbajupyter14:v1
 MAINTAINER  yangyi@tib.cas.cn
 RUN mkdir /home/gsmn
 WORKDIR /home/gsmn/
